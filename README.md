@@ -114,7 +114,7 @@ The AI/ML Tennis Analysis System represents a significant advancement in sports 
 *Before Analysis of the Game "Lawn-Tennis"*
 <hr>
 
-![Example Analysis 2](output_videos/screenshot.jpeg)  
+![Example Analysis 2](screenshot.jpeg)  
 *After Complete Analysis of the "Lawn Tennis" Game*  
 <hr>
 

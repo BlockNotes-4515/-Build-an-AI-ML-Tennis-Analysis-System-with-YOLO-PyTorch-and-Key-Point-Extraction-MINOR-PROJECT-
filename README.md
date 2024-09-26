@@ -4,7 +4,11 @@
 Here’s the revised README content with sections for novelty, uniqueness, a gallery, and important links:
 
 ---
-
+<hr>
+<div align = "center">
+   <img src="Minor Images/Final Output Videos.jpeg" alt="Check it out twice banner of the project">
+</div>
+<hr>
 # AI/ML Tennis Analysis System
 
 ## Table of Contents

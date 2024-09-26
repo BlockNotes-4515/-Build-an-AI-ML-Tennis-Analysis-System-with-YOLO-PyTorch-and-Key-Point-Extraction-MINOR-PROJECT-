@@ -131,6 +131,8 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 Feel free to modify the content according to your project's specifics, including adding actual paths to images in the gallery and updating links! Let me know if you need any further adjustments!
 
+<center><b><i>Made with ❤️ by Dhruv Dhayal | 🚀 Powered by AI/ML & Streamlit</i></b></center>
+
 
 
 

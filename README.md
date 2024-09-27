@@ -207,7 +207,7 @@ The AI/ML Tennis Analysis System represents a significant advancement in sports 
 
 Watch the full demo of the Tennis Analysis System in action:
 
-[![Tennis Analysis Demo](https://drive.google.com/file/d/18WL4OLZ3LapGPLfmFXilBtedeCFMK4jw/view?usp=sharing)]
+[![Tennis Analysis Demo](Minor Images/Final Output Videos.jpeg)](https://drive.google.com/file/d/18WL4OLZ3LapGPLfmFXilBtedeCFMK4jw/view?usp=sharing)
 
 Click the image above or [this link](https://drive.google.com/file/d/18WL4OLZ3LapGPLfmFXilBtedeCFMK4jw/view?usp=sharing) to watch on Google Drive
 <hr>

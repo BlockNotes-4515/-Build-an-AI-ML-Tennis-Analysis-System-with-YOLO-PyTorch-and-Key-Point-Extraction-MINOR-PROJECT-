@@ -59,6 +59,71 @@ This project stands out due to its integration of multiple advanced technologies
 - **Matplotlib:** For data visualization and graphical representation of analysis results.
 - **Flask:** For creating a web-based interface to interact with the system.
 
+Here's a step-by-step guide for running your Streamlit app, including bash commands, to add to your GitHub README:
+
+---
+
+## 🛠️ Installation and Running Guide
+
+### Prerequisites
+Before running the application, ensure you have the following installed:
+
+- Python 3.6 or higher
+- pip (Python package installer)
+
+### Step 1: Clone the Repository
+Open your terminal and run the following command to clone the repository:
+
+```bash
+git clone https://github.com/your_username/your_repository_name.git
+```
+
+Replace `your_username` and `your_repository_name` with your actual GitHub username and repository name.
+
+### Step 2: Navigate to the Project Directory
+Change your working directory to the project folder:
+
+```bash
+cd your_repository_name
+```
+
+### Step 3: Create a Virtual Environment (Optional but Recommended)
+It's good practice to create a virtual environment for your projects. You can do this with the following commands:
+
+```bash
+# For Windows
+python -m venv venv
+.\venv\Scripts\activate
+
+# For macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### Step 4: Install Required Packages
+Install the necessary libraries and dependencies using pip:
+
+```bash
+pip install -r requirements.txt
+```
+
+Make sure the `requirements.txt` file contains all the required packages for your project.
+
+### Step 5: Run the Streamlit Application
+Finally, run the Streamlit app with the following command:
+
+```bash
+streamlit run app.py
+```
+
+Replace `app.py` with the name of your main Python file if it differs.
+
+### Step 6: Access the Application
+After running the command, a new tab will automatically open in your default web browser, displaying the Streamlit application. If it doesn’t open automatically, you can manually navigate to `http://localhost:8501`.
+
+---
+<hr>
+
 ## Installation
 
 1. Clone the repository:

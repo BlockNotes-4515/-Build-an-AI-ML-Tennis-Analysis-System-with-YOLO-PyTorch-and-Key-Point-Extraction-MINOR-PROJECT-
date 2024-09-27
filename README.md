@@ -140,7 +140,7 @@ The AI/ML Tennis Analysis System represents a significant advancement in sports 
 
 ## Important Links
 
-- [GitHub Repository](https://github.com/yourusername/tennis-analysis-system)
+- [GitHub Repository](https://github.com/BlockNotes-4515/-Build-an-AI-ML-Tennis-Analysis-System-with-YOLO-PyTorch-and-Key-Point-Extraction-MINOR-PROJECT-/tree/main?tab=readme-ov-file)
 - [Roboflow Box](https://universe.roboflow.com/viren-d... )
 - [YOLO Documentation](https://pjreddie.com/darknet/yolo/)
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
